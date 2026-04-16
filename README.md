@@ -31,11 +31,13 @@ Selected tasks showcasing different evaluation modes:
 | [**String Joining**](./samples/scoring-task-2.md) | Python | **Performance/Big O** | Scoring Rubric |
 | [**Inventory JSON**](./samples/ranking-task-json.md) | JSON | **Schema/Types** | Ranking |
 | [**User Profile**](./samples/scoring-task-json-schema.md) | JSON | **Required Fields** | Scoring Rubric |
+| [**Config Loader**](./samples/ranking-task-csharp.md) | C# / .NET | **IDisposable/Null** | Ranking |
 
 ### 🛠 [Language Expertise](./languages/)
 - [**Python**](./languages/python-examples.md) (PEP 8, Pandas, Memory Safety)
 - [**JavaScript/TypeScript**](./languages/javascript-examples.md) (Security, Async, Modern ES6+)
 - [**Java**](./languages/java-examples.md) (JVM Semantics, SOLID, Thread Safety)
+- [**C# / .NET**](./languages/csharp-examples.md) (IDisposable, LINQ, Async/Await)
 - [**JSON & Schema**](./languages/json-data.md) (Schema Draft-07, Data Integrity)
 
 ---
