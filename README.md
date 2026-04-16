@@ -32,6 +32,7 @@ Selected tasks showcasing different evaluation modes:
 | [**Inventory JSON**](./samples/ranking-task-json.md) | JSON | **Schema/Types** | Ranking |
 | [**User Profile**](./samples/scoring-task-json-schema.md) | JSON | **Required Fields** | Scoring Rubric |
 | [**Config Loader**](./samples/ranking-task-csharp.md) | C# / .NET | **IDisposable/Null** | Ranking |
+| [**Async Caching**](./samples/ranking-task-csharp-async.md) | C# / .NET | **Async/LINQ** | Ranking |
 
 ### 🛠 [Language Expertise](./languages/)
 - [**Python**](./languages/python-examples.md) (PEP 8, Pandas, Memory Safety)
