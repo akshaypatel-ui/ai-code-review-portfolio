@@ -33,12 +33,14 @@ Selected tasks showcasing different evaluation modes:
 | [**User Profile**](./samples/scoring-task-json-schema.md) | JSON | **Required Fields** | Scoring Rubric |
 | [**Config Loader**](./samples/ranking-task-csharp.md) | C# / .NET | **IDisposable/Null** | Ranking |
 | [**Async Caching**](./samples/ranking-task-csharp-async.md) | C# / .NET | **Async/LINQ** | Ranking |
+| [**File Processor**](./samples/ranking-task-cpp.md) | C++ | **RAII/Memory** | Ranking |
 
 ### 🛠 [Language Expertise](./languages/)
 - [**Python**](./languages/python-examples.md) (PEP 8, Pandas, Memory Safety)
 - [**JavaScript/TypeScript**](./languages/javascript-examples.md) (Security, Async, Modern ES6+)
 - [**Java**](./languages/java-examples.md) (JVM Semantics, SOLID, Thread Safety)
 - [**C# / .NET**](./languages/csharp-examples.md) (IDisposable, LINQ, Async/Await)
+- [**C++**](./languages/cpp-examples.md) (RAII, Smart Pointers, Core Guidelines)
 - [**JSON & Schema**](./languages/json-data.md) (Schema Draft-07, Data Integrity)
 
 ---
