@@ -36,6 +36,7 @@ Selected tasks showcasing different evaluation modes:
 | [**Auth Service**](./samples/ranking-task-java-strings.md) | Java | **String Pool/Semantics** | Ranking |
 | [**Order Processing**](./samples/ranking-task-java-collections.md) | Java | **Collections/Iterator** | Ranking |
 | [**Tag Management**](./samples/ranking-task-java-lists.md) | Java | **Fixed-size Lists** | Ranking |
+| [**Invoice Calc**](./samples/ranking-task-java-finance.md) | Java | **Precision/BigDecimal**| Ranking |
 | [**Async Caching**](./samples/ranking-task-csharp-async.md) | C# / .NET | **Async/LINQ** | Ranking |
 | [**File Processor**](./samples/ranking-task-cpp.md) | C++ | **RAII/Memory** | Ranking |
 | [**JS Closures**](./samples/ranking-task-concepts.md) | JavaScript | **CS Concepts** | Ranking |
