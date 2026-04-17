@@ -26,6 +26,7 @@ Selected tasks showcasing different evaluation modes:
 | :--- | :--- | :--- | :--- |
 | [**Binary Search**](./samples/ranking-task-2.md) | Python/Java/Kotlin | **Multi-Language** | Ranking |
 | [**Web Security**](./samples/scoring-task-1.md) | JavaScript | **Security/OWASP** | Scoring Rubric |
+| [**SQL Injection**](./samples/ranking-task-python-security.md) | Python | **Web Security** | Ranking |
 | [**CSV Processor**](./samples/ranking-task-1.md) | Python | **Correctness/Pandas** | Ranking |
 | [**Factorial Logic**](./samples/correction-task-1.md) | Java | **Bug Fixing** | Gold Standard |
 | [**String Joining**](./samples/scoring-task-2.md) | Python | **Performance/Big O** | Scoring Rubric |
