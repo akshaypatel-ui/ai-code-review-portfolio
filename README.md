@@ -40,6 +40,7 @@ Selected tasks showcasing different evaluation modes:
 | [**Hash Contract**](./samples/ranking-task-java-hash-contract.md) | Java | **Equals/HashCode** | Ranking |
 | [**Survey Analytics**](./samples/ranking-task-java-unboxing.md) | Java | **Autoboxing/NPE** | Ranking |
 | [**File Service**](./samples/ranking-task-java-exceptions.md) | Java | **Exception Swallowing**| Ranking |
+| [**Sales Report**](./samples/ranking-task-java-streams.md) | Java | **Stream Lifecycle** | Ranking |
 | [**Async Caching**](./samples/ranking-task-csharp-async.md) | C# / .NET | **Async/LINQ** | Ranking |
 | [**File Processor**](./samples/ranking-task-cpp.md) | C++ | **RAII/Memory** | Ranking |
 | [**JS Closures**](./samples/ranking-task-concepts.md) | JavaScript | **CS Concepts** | Ranking |
