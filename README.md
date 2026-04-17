@@ -34,6 +34,7 @@ Selected tasks showcasing different evaluation modes:
 | [**Config Loader**](./samples/ranking-task-csharp.md) | C# / .NET | **IDisposable/Null** | Ranking |
 | [**Async Caching**](./samples/ranking-task-csharp-async.md) | C# / .NET | **Async/LINQ** | Ranking |
 | [**File Processor**](./samples/ranking-task-cpp.md) | C++ | **RAII/Memory** | Ranking |
+| [**JS Closures**](./samples/ranking-task-concepts.md) | JavaScript | **CS Concepts** | Ranking |
 
 ### 🛠 [Language Expertise](./languages/)
 - [**Python**](./languages/python-examples.md) (PEP 8, Pandas, Memory Safety)
