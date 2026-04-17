@@ -35,6 +35,7 @@ Selected tasks showcasing different evaluation modes:
 | [**Config Loader**](./samples/ranking-task-csharp.md) | C# / .NET | **IDisposable/Null** | Ranking |
 | [**Auth Service**](./samples/ranking-task-java-strings.md) | Java | **String Pool/Semantics** | Ranking |
 | [**Order Processing**](./samples/ranking-task-java-collections.md) | Java | **Collections/Iterator** | Ranking |
+| [**Tag Management**](./samples/ranking-task-java-lists.md) | Java | **Fixed-size Lists** | Ranking |
 | [**Async Caching**](./samples/ranking-task-csharp-async.md) | C# / .NET | **Async/LINQ** | Ranking |
 | [**File Processor**](./samples/ranking-task-cpp.md) | C++ | **RAII/Memory** | Ranking |
 | [**JS Closures**](./samples/ranking-task-concepts.md) | JavaScript | **CS Concepts** | Ranking |
