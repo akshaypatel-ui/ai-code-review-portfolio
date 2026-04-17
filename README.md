@@ -38,6 +38,7 @@ Selected tasks showcasing different evaluation modes:
 | [**Tag Management**](./samples/ranking-task-java-lists.md) | Java | **Fixed-size Lists** | Ranking |
 | [**Invoice Calc**](./samples/ranking-task-java-finance.md) | Java | **Precision/BigDecimal**| Ranking |
 | [**Hash Contract**](./samples/ranking-task-java-hash-contract.md) | Java | **Equals/HashCode** | Ranking |
+| [**Survey Analytics**](./samples/ranking-task-java-unboxing.md) | Java | **Autoboxing/NPE** | Ranking |
 | [**Async Caching**](./samples/ranking-task-csharp-async.md) | C# / .NET | **Async/LINQ** | Ranking |
 | [**File Processor**](./samples/ranking-task-cpp.md) | C++ | **RAII/Memory** | Ranking |
 | [**JS Closures**](./samples/ranking-task-concepts.md) | JavaScript | **CS Concepts** | Ranking |
