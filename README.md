@@ -34,6 +34,7 @@ Selected tasks showcasing different evaluation modes:
 | [**User Profile**](./samples/scoring-task-json-schema.md) | JSON | **Required Fields** | Scoring Rubric |
 | [**Config Loader**](./samples/ranking-task-csharp.md) | C# / .NET | **IDisposable/Null** | Ranking |
 | [**Auth Service**](./samples/ranking-task-java-strings.md) | Java | **String Pool/Semantics** | Ranking |
+| [**Order Processing**](./samples/ranking-task-java-collections.md) | Java | **Collections/Iterator** | Ranking |
 | [**Async Caching**](./samples/ranking-task-csharp-async.md) | C# / .NET | **Async/LINQ** | Ranking |
 | [**File Processor**](./samples/ranking-task-cpp.md) | C++ | **RAII/Memory** | Ranking |
 | [**JS Closures**](./samples/ranking-task-concepts.md) | JavaScript | **CS Concepts** | Ranking |
